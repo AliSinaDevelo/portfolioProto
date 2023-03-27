@@ -8,9 +8,9 @@ To run the website locally, clone this repository to your local machine and open
 
 bash
 
-git clone https://github.com/AliSinaDevelo/portfolioProto.git
-cd portfolioProto
-open index.html
+    git clone https://github.com/AliSinaDevelo/portfolioProto.git
+    cd portfolioProto
+    open index.html
 
 Usage
 
