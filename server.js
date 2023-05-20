@@ -17,3 +17,5 @@ MongoClient.connect(url, { useUnifiedTopology: true }, (err, client) => {
     console.log(`Server is running on port ${port}`);
   });
 });
+
+app.use(express.static('public'));

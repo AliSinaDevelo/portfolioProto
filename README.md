@@ -19,8 +19,10 @@ The home page provides an introduction to my work and highlights my most recent 
 Screenshot of Home Page
 Technologies
 
-    HTML
-    CSS
+    HTML5
+    CSS3
+    Bootstrap
+    
     JavaScript
     MongoDB
     ExpressJS
